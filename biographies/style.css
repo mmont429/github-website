@@ -9,7 +9,7 @@ body {
   
   .image-section {
     display: flex;
-    justify-content: center;
+    justify-content: left;
   }
   
   .section-style {
