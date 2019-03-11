@@ -27,6 +27,13 @@ body {
     background-color: #4aa520;
   }
 
+  h1{
+    color: black;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.76);
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
   .button {
     background-color: red;
     border: none;
