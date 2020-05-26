@@ -1,4 +1,4 @@
-# github-website
+# First Website
 This is a website that I created to better understand HTML, CSS, and JavaScript.
 
 __Features__
